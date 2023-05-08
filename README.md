@@ -72,3 +72,4 @@ https://www.facebook.com/groups/thedesignhive
 https://www.itechguides.com/how-to-join-windows-11-to-azure-active-directory/
 
 Download Microsoft Teams Desktop and Mobile Apps | Microsoft Teams
+https://www.microsoft.com/en/microsoft-teams/download-app
