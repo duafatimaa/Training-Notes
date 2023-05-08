@@ -70,3 +70,5 @@ https://www.facebook.com/groups/thedesignhive
 [VS Code](https://az764295.vo.msecnd.net/insider/d0acdbff1f30eac7cc68930013485276d1bae0ec/VSCodeUserSetup-x64-1.76.0-insider.exe)
 
 https://www.itechguides.com/how-to-join-windows-11-to-azure-active-directory/
+
+Download Microsoft Teams Desktop and Mobile Apps | Microsoft Teams
