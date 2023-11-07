@@ -3,6 +3,8 @@
 # Training-for-Candidate
 
 Scripts for New Hired Employees
+Training mannual link
+https://teams.microsoft.com/l/message/19:e4796799aa234d7b9c6c2df14ae65c91@thread.v2/1699360469088?context=%7B%22contextType%22%3A%22chat%22%7D
 
 1. How to start the day at work?
 
